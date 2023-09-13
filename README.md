@@ -1,3 +1,4 @@
 # Dasar Pemrograman - Jobsheet2
 
-Hi Github
+“Hi Github, ini adalah repository pertama 
+saya."
