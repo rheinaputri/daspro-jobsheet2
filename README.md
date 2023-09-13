@@ -1,5 +1,5 @@
 # Dasar Pemrograman - Jobsheet2
  
-"Hi github, ini adalah repository 
+"Aloha github, ini adalah repository 
 pertama saya."
 
